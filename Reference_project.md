@@ -26,19 +26,7 @@ EEG data(**독립 변수 x**): Fp1, F3, C3, P3, Fz, Cz, Pz, Fp2, F4, C4, P4, F7,
 
 _filtered spectogream_: 위 19개 채널을 그대로 쓰지 않고, 4개의 영역(LL, LP, RP, RR)으로 묶어 이미지화. 각 영역은 128(주파수) x 256(시간) 크기의 행렬(Matrix) 데이터가 되어 모델의 입력값이 됨.
 
-6가지 뇌 활동(**종속 변수 y**): 
-
-- seizure_vote (발작)
-
-- lpd_vote (좌측 주기적 이당성 방전)
-
-- gpd_vote (일반화된 주기적 방전)
-
-- lrda_vote (좌측 리드미컬 델타 활동)
-
-- grda_vote (일반화된 리드미컬 델타 활동)
-
-- other_vote (기타)
+Spectogram images(**종속 변수 y**): 파동을 이미지로 변환.
 
 ## 데이터 전처리
 
