@@ -7,6 +7,10 @@
 
 ### DataSet | Harmful Brain Activity Classification (약 106,800개)
 
+<img width="1762" height="1092" alt="image" src="https://github.com/user-attachments/assets/48ce8a1a-9e50-4246-93e3-f0d71efa8752" />
+
+<img width="1120" height="1016" alt="image" src="https://github.com/user-attachments/assets/4a9dd780-cf65-417f-b6b0-4df960ad7460" />
+
 Resource: Harvard Medical School
 
 Calumn...
